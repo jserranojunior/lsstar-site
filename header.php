@@ -48,10 +48,8 @@
           <ul class="nav nav-pills centered">
                   <li role="presentation" ><a href="./">Página Inícial</a></li>
   <li role="presentation"><a href="./contato.php">Contato</a></li>
-  <li role="presentation"><a href="./asturias.php">Lançamento</a></li>
-  <li role="presentation"><a href="./projeto.php">Projeto</a></li>
-  <li role="presentation"><a href="./praiatombo.php">Novidade</a></li>
-    <li role="presentation"><a href="./producao.php">Produção</a></li>
+
+
   
 </ul>
            </div>

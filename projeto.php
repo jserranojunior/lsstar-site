@@ -99,7 +99,7 @@
         Rua Arilene Farinazzo Ferreira, 224,
         Jd Boa Esperança,<br>
         Guarujá - Sp
-        <h4>Casa 1 e 4 - <span class="text-primary">R$235.000.00</span></h4>
+        <h4>Casa 1 e 4 - <span class="text-primary">R$245.000.00</span></h4>
         Características do imóvel:
         Sobrado geminado sobreposto inferior, 2 quartos e quintal.
         <h4>Casa 2 e 3 - <span class="text-primary">R$235.000.00</span></h4>
