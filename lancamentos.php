@@ -100,10 +100,10 @@
         Rua Julio Pedro Pontes, 445
         Jd Monteiro da Cruz,
         Vicente de Carvalho - Sp
-        <h4>Casa 2 e 3 - <span class="text-primary">R$265.000.00</span> - <span class="text-danger">Bônus de R$20.000,00</span></h4>
+        <h4>Casa 2 e 3 - <span class="text-primary">VENDIDO</span> <span class="text-danger"></span></h4>
         Características do imóvel:
         Sobrado germinado frente, 2 quartos, lavabo, sacada, garagem privativa<br>
-        <h4>Casa 1 e 4 - <span class="text-primary">R$275.000.00</span></span> - <span class="text-danger">Bônus de R$20.000,00</span></h4>
+        <h4>Casa 1 e 4 - <span class="text-primary">VENDIDO</span></span> <span class="text-danger"></span></h4>
         Características do imóvel:
         Sobrado geminado fundo, 2 quartos, lavabo, quintal, garagem privativa.
     </div>
