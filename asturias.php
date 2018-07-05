@@ -9,7 +9,7 @@
      <div class="col-xs-6">
      
          <video class="black" width="100%" height="385" controls="controls" type="video/mp4" preload="none" autoplay>
-<source src="http://www.lsstar.com.br/video/sobrado-asturias.mp4"" >
+<source src="http://www.lsstar.com.br/video/sobrado-asturias.mp4">
 Seu navegador não tem suporte.
 </video> 
          
@@ -35,8 +35,8 @@ Seu navegador não tem suporte.
          Rua Ranulpho Veríssimo, 80 - Jardim Las Palmas, Astúrias - Guarujá - SP, CEP: 11420-495<br><br>
         Sobrados geminados térreos com 96m², 3 dormitórios, 1 suíte com varanda, living espaçoso, cozinha americana, espaço gourmet com churrasqueira, lavabo, garagem ampla para 1 carro grande.
         <br><br>
-        Inicio das obras Junho de 2017.<br>
-        Prazo de construção de 1 ano.<br>
+        Inicio das obras Novembro de 2017.<br>
+        Prazo de construção de 18 meses.<br>
 Venda exclusivas com a LS Star Incorporadora.
 <br>
     </div>

@@ -122,11 +122,11 @@
         Av. Adriano Dias dos Santos, 313
         Jardim Boa Esperanca, <br> CEP: 11470-220,
         Vicente de Carvalho - Sp
-        <h4>Casa 2 e 3 - <span class="text-primary">R$235.000.00</span></h4>
+        <h4>Casa 3 - <span class="text-primary">R$235.000.00</span></h4>
         Características do imóvel:
         Sobrado germinado sobreposto superior, 2 quartos e sacada gourmet - 61.295m²<br>
        
-        <h4>Casa 1 e 4 - <span class="text-primary">R$235.000.00</span></h4>
+        <h4>Casa 1, 2 e 4 - <span class="text-primary">VENDIDO</span></h4>
         Características do imóvel:
         Sobrado geminado sobreposto inferior, 2 quartos e quintal com churrasqueira - 65.625m² 
     </div>

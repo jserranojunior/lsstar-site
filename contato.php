@@ -45,21 +45,15 @@
     </ul>
     
     <ul class="list-unstyled">
-        <li><span class="text-primary">Representação no Guarujá</span>
+        <li><span class="text-primary">Negócios e Vendas no Guarujá</span>
             <ul class="style-none">
+                <li>Ana Paula</li>
                 <li>Av. dos Caiçaras, 31 - Tel: (11)99971-2869</li>
                 <li>Jardim Guaiúba - Guarujá</li>
             </ul>
         </li>
     </ul>
     
-    <ul class="list-unstyled"><li><span class="text-primary">Negócios e Vendas no Guarujá</span>
-            <ul class="style-none">
-                <li>Silvio - Tel: (13)98177-5150</li>
-                 <li>Acivaldo - Tel: (13)99607-9597</li>
-             </ul>
-        </li>
-    </ul>
     
     <ul class="list-unstyled"><li><span class="text-primary">Construtora Associada</span>
             <ul class="style-none">
