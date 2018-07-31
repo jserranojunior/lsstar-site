@@ -47,7 +47,7 @@
     <ul class="list-unstyled">
         <li><span class="text-primary">Negócios e Vendas no Guarujá</span>
             <ul class="style-none">
-                <li>Andrea Possa</li>
+                <li>Andréa Possa</li>
                 <li>Av. dos Caiçaras, 31 - Tel: (11)99971-2869</li>
                 <li>Jardim Guaiúba - Guarujá</li>
             </ul>
