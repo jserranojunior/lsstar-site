@@ -2,7 +2,9 @@
 <div class="row">
         <div class="col  ">
         <p class="text-center bg-light">
-                Av. dos Caiçaras, 31 - Jardim Guaiúba - Guarujá | Tel: (11) 99971-2869                
+        Escritório e Vendas<br>
+Av. dos Caiçaras, 31 - CEP: 11420-440 - Jardim Guaiúba - Guarujá - SP<br>
+Telefone: (13) 3354-2278 / Celular: (13) 99779-1954               
         </p>
          
         </div>
@@ -12,6 +14,16 @@
 
 </div>    <!-- Container -->
     <style>
+
+    p.text-casa-titulo {
+    margin-bottom: 4px;
+    margin-top: 7px;
+}
+
+p.text-bold.text-casas {
+    margin: 9px 0px 0px 0px;
+    font-weight: bold;
+}
 
 .icon-social-media-header {
     font-size: 2.5rem;
