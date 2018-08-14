@@ -193,16 +193,16 @@
             <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
           </div>
           <div class="col">
-            <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
+            <img src="img/udiaco.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
           </div>
           <div class="col">
-            <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
+            <img src="img/madeireira.jpeg" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
           </div>
           <div class="col">
-            <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
+            <img src="img/construmar.jpg" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
           </div>
           <div class="col">
-            <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
+            <img src="img/casalitoral.jpg" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
           </div>
           <div class="col">
             <img src="img/polimix.png" class="img-fornecedores img-thumbnail" alt="Minha casa minha vida">
