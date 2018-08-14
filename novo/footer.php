@@ -4,8 +4,24 @@
 </div>    <!-- Container -->
     <style>
 
+    .logo-topo>img {
+    max-width: 258px;
+}
+
+.row-navbar{
+    margin-bottom: 10px;
+}
+    .row.sidebar-menu {
+   /* margin-top: 40px; */
+}
+
+    .row-lsstar{
+        /* margin-top: 54px; */
+    }
+
 img.img-fornecedores{
     max-width: 70px;
+    height: 70px;
 }
     .footer {
     margin-bottom: 15px;
@@ -18,25 +34,31 @@ img.img-fornecedores{
 }
 
     img.img-minha-casa-minha-vida{
-    max-width: 150px;
+        max-width: 100px;
 }
 
 .row-financiamento {
     margin-top: 30px;
+   /* margin-top: 113px; */
+}
+
+.row-casa {
+    margin-top: 50px;
 }
 
     p.text-casa-titulo {
     margin-bottom: 4px;
     margin-top: 7px;
+    font-weight: bold;
 }
 
 p.text-bold.text-casas {
     margin: 9px 0px 0px 0px;
-    font-weight: bold;
+
 }
 
 .icon-social-media-header {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
       .row-space{
