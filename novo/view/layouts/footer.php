@@ -5,7 +5,8 @@
     <style>
 
     .logo-topo>img {
-    max-width: 258px;
+    /* max-width: 258px; */
+    margin-top: 3px;
 }
 
 .row-navbar{
@@ -75,9 +76,17 @@ p.text-bold.text-casas {
       .navbar{
         padding: .0rem 1rem;
         }
+
+        .nav-side-menu {
+  overflow: auto;
+  font-family: verdana;
+  font-size: 12px;
+        }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+
+    
   </body>
 </html>
