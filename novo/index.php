@@ -1,7 +1,9 @@
 <?php 
+  $pagina = "inicio";
   include('view/layouts/header.php');
-  include('view/layouts/navbar.php');
+ // include('view/layouts/navbar.php');
   include('view/layouts/sidebarmenu.php');
+  
   ?>
   
   <div class="col-lg-6">
@@ -16,11 +18,27 @@
       </div>
     </div>
     <div class="row row-financiamento justify-content-md-center">
-      <div class="col-md">
-        <a target="_blank" href="http://www8.caixa.gov.br/siopiinternet-web/simulaOperacaoInternet.do?method=inicializarCasoUso">
-        <span class="btn mx-auto d-block">
-          Simulador de Financiamento 
+      <div class="col-md-6">
+        <span class="font-weight-bold text-center">
+        <p class="text-center">
+          <span class="font-weight-bold text-center">
+          Imóveis a Venda<br>
+      </span>
+         <a href="#">Adriano Dias <br> Casa 3</a> <br><br>
+         <a href="#">Arilene Farinazzo <br> Casa 3 e 4</a> 
+        </p> 
+        
+      </div>
+      <div class="col-md-6 mx-auto d-block text-center">
+      <span class="font-weight-bold">
+      <a target="_blank"  href="http://www8.caixa.gov.br/siopiinternet-web/simulaOperacaoInternet.do?method=inicializarCasoUso">
+
+       
+          Simulador de Financiamento
+         
+      </a>
         </span>
+        
         <img src="img/minhacasaminhavida.png" class="img-fluid img-minha-casa-minha-vida img-thumbnail mx-auto d-block" alt="Minha casa minha vida">
         </a>
       </div>

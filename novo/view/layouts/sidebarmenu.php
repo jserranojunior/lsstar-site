@@ -1,9 +1,18 @@
 <div class="row row-space">
-<div class="col-3">
-  <div class="row">
-    <div class="col">
-      <div class="">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="col-md-12 col-xs-12 col-sm-12 col-lg-3">
+  <div class="row bg-light">
+
+  <?php if(isset($pagina) != "inicio"){ ?> 
+    <div class="col-md-12">
+      <a href="/">
+      <div class="logo-topo">
+        <img src="img/logo.png " class="img-fluid  sombra" alt="Ls Star Incorporadora">
+      </div>
+      </a>
+    </div>
+<?php } ?>
+    <div class="col-md-4 col-lg-12">      
+        <nav class="navbar navbar-expand-lg navbar-light ">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
           </button>
@@ -11,26 +20,26 @@
             <ul class="nav nav-pills flex-column">
               <li class="nav-item">
                 <a class=" text-dark text-bold" href="/">
-                  <p class="text-casa-titulo text-bold">
+                  <p class="text-casa-titulo text-funcionando text-bold">
                     Página Inícial
                   </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a class=" text-dark" href="/quemsomos.php">
+                <a class=" text-dark text-funcionando" href="/quemsomos.php">
                   <p class="text-casa-titulo">
                     Quem somos
                   </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a class=" text-dark " href="#">
+                
                   <p class="text-casa-titulo">
                     Projetos Realizados
                   </p>
-                </a>
+                
               </li>
-              <li class="nav-item">
+              <li class="nav-item" >
                 <a class=" text-dark" href="#">
                   <p class="text-bold text-casas">
                     - Caiçaras
@@ -45,7 +54,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class=" text-dark" href="/julio.php">
+                <a class="text-dark text-funcionando" href="/julio.php">
                   <p class="text-bold text-casas">
                     - Julio Pedro Pontes
                   </p>
@@ -61,7 +70,7 @@
               <li class="nav-item">
                 <a class=" text-dark" href="#">
                   <p class="text-bold text-casas">
-                    - Adriano diaz
+                    - Adriano dias
                   </p>
                 </a>
               </li>
@@ -115,7 +124,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class=" text-dark" href="#">
+                <a class=" text-dark text-funcionando" href="/contato2.php">
                   <p class="text-casa-titulo">
                     Contato
                   </p>
@@ -123,8 +132,38 @@
               </li>
             </ul>
           </div>
-        </nav>
-      </div>
+        </nav>      
     </div>
+    <div class="col-md-6 col-lg-12 col-sm-12 text-center float-center bg-light">
+      
+
+      <a class="text-primary btn" target="_blank" href="https://www.facebook.com/lsstarincorporadora/?ref=bookmarks">
+          <span class="icon-social-media-header">
+            <i class="fab fa-facebook-square"></i>
+          </span>              
+      </a>
+
+      <a class=" text-danger btn" target="_blank" href="https://www.instagram.com/lsstarincorporadora/">
+      <span class="icon-social-media-header">
+      <i class="fab fa-instagram"></i>
+      </span>
+      </a>
+
+      <a class=" text-primary btn" href="/contato.php">
+      <span class="icon-social-media-header">
+      <i class="far fa-envelope"></i>
+      </span>
+      </a>
+
+      <a class="text-success link-whatsapp btn" href="whatsapp://send?phone=5513997791954">
+      <span class="icon-social-media-header">
+        <i class="fab fa-whatsapp"></i>
+      </span>
+      </a>
+      
+      </div>
+    
   </div>
 </div>
+
+ 

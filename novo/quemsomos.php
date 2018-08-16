@@ -1,6 +1,6 @@
 <?php 
   include('view/layouts/header.php');
-  include('view/layouts/navbar.php');
+
   include('view/layouts/sidebarmenu.php');
   ?>
   

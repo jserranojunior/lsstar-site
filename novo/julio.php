@@ -1,6 +1,5 @@
 <?php 
   include('view/layouts/header.php');
-  include('view/layouts/navbar.php');
   include('view/layouts/sidebarmenu.php');
   ?>
   
@@ -15,7 +14,7 @@
         <img class="d-block w-100" src="./img/julio/2.png" alt="">
     </div>
     <div class="carousel-item">
-    <!--     <img class="d-block w-100" src="./img/julio/3.jpg" alt=""> -->
+       <img class="d-block w-100" src="./img/julio/3.jpg" alt=""> 
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -35,6 +34,5 @@
   </div>
 
  <?php include('view/layouts/rightbarfacebook.php'); 
- include('view/layouts/escritorioevendas.php'); 
-
+ include('view/layouts/escritorioevendas.php');
   include('view/layouts/footer.php'); ?>

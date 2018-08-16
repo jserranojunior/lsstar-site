@@ -3,10 +3,18 @@
 
 </div>    <!-- Container -->
     <style>
+.text-funcionando{
+    color:blue! important;
+}
+    .w-100 {
+    width: 100%!important;
+    height: 500px;
+}
 
     .logo-topo>img {
     /* max-width: 258px; */
     margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 .row-navbar{
@@ -48,13 +56,13 @@ img.img-fornecedores{
 }
 
     p.text-casa-titulo {
-    margin-bottom: 4px;
-    margin-top: 7px;
+        margin-bottom: 0px;
+    margin-top: 13px;
     font-weight: bold;
 }
 
 p.text-bold.text-casas {
-    margin: 9px 0px 0px 0px;
+    margin: 4px 0px 0px 0px;
 
 }
 
@@ -87,6 +95,26 @@ p.text-bold.text-casas {
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
 
-    
+      <script>
+  
+  function isMobile()
+  {
+    var userAgent = navigator.userAgent.toLowerCase();
+    if( userAgent.search(/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i)!= -1 )
+      return true;
+  }
+  
+  $isMobile = isMobile();
+ 
+ $(document).ready(function(){
+   if($isMobile == true){  
+     $(".link-whatsapp").attr("href", "whatsapp://send?phone=5513997791954");         
+   }else{
+     $(".link-whatsapp").attr("href", "https://web.whatsapp.com/send?phone=5513997791954"); 
+   }
+ });
+ 
+ 
+    </script>
   </body>
 </html>
