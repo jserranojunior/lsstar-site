@@ -1,17 +1,21 @@
 <div class="row row-space">
-<div class="col-md-12 col-xs-12 col-sm-12 col-lg-3">
-  <div class="row bg-light">
+  <div class="col-md-12 col-xs-12 col-sm-12 col-lg-3">
+      <div class="row bg-light">
 
-  <?php if(isset($pagina) != "inicio"){ ?> 
-    <div class="col-md-12">
-      <a href="/">
-      <div class="logo-topo">
-        <img src="img/logo.png " class="img-fluid  sombra" alt="Ls Star Incorporadora">
+      <?php if(isset($pagina) != "inicio"){ ?> 
+        <div class="col-md-12">
+          <a href="/">
+          <div class="logo-topo">
+            <img src="img/logo.png " class="img-fluid  sombra" alt="Ls Star Incorporadora">
+          </div>
+          </a>
+        </div>
+    <?php } ?>
       </div>
-      </a>
-    </div>
-<?php } ?>
-    <div class="col-md-4 col-lg-12">      
+<div class="row justify-content-sm-center">
+
+
+    <div class=" col-md-6 col-lg-12 ">      
         <nav class="navbar navbar-expand-lg navbar-light ">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -134,7 +138,7 @@
           </div>
         </nav>      
     </div>
-    <div class="col-md-6 col-lg-12 col-sm-12 text-center float-center bg-light">
+    <div class=" col-md-6 col-lg-12 text-center float-center">
       
 
       <a class="text-primary btn" target="_blank" href="https://www.facebook.com/lsstarincorporadora/?ref=bookmarks">

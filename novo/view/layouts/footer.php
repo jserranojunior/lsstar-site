@@ -90,6 +90,11 @@ p.text-bold.text-casas {
   font-family: verdana;
   font-size: 12px;
         }
+
+        .navbar {
+    padding: .0rem 0rem;
+}
+
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
