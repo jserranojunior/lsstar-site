@@ -20,7 +20,7 @@
         <div class="row bg-light">
           @if(app('request')->path() !== '/')
           <div class="col-md-12">
-            <a href="/">
+            <a href="{{url('/')}}">
               <div class="logo-topo">
                 <img src="{{Url('/img/logo.png')}}" class="img-fluid  sombra" alt="Ls Star Incorporadora">
               </div>
@@ -38,7 +38,7 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav nav-pills flex-column">
                   <li class="nav-item">
-                    <a class=" text-dark text-bold" href="/">
+                    <a class=" text-dark text-bold" href="{{url('/')}}">
                       <p class="text-casa-titulo text-funcionando text-bold">
                         Página Inícial
                       </p>
