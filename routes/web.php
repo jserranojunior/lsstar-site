@@ -39,4 +39,7 @@ $router->get('/arilene', ['as' => 'arilene', function () use ($router) {
     return view('arilene');
 }]);
 
+
+$router->get('/contas', 'ContasController@index');
+
 Route::post('/send', 'EmailController@send');
