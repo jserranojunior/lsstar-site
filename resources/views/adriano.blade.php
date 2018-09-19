@@ -7,7 +7,7 @@
         <span class="text-center">
           <span>
             <h4 class="font-weight-bold text-top-without-space text-lsstar ">
-              Adriano Dias
+              Av. Adriano Dias
             </h4>
           </span>
           <p>Casa à venda
@@ -19,7 +19,7 @@
 
         <p>
           <span class="text-primary font-weight-bold">Casa 3 - R$ 235.000.00</span><br>
-          Características do imóvel: Sobrado germinado sobreposto superior, <br>2 quartos e sacada gourmet - 61.295m²
+          Características do imóvel: Sobrado geminado sobreposto superior, <br>2 quartos e sacada gourmet - 61.295m²
         </p>
       </div>
     </div>

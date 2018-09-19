@@ -23,12 +23,12 @@
           <br>
         </span>
         <a class="" href="{{url('/adriano')}}">
-          Adriano Dias
+          Av. Adriano Dias
           <br> Casa 3</a>
         <br>
         <br>
         <a class="" href="{{url('/arilene')}}">
-          Arilene Farinazzo
+          Rua Arilene Farinazzo
           <br> Casa 3 e 4</a> <br><br>
         <a target="_blank" href="http://www8.caixa.gov.br/siopiinternet-web/simulaOperacaoInternet.do?method=inicializarCasoUso">
           Simulador de Financiamento <img src="img/minhacasaminhavida.png" class="img-fluid img-minha-casa-minha-vida img-thumbnail mx-auto d-block" alt="Minha casa minha vida">
@@ -37,7 +37,7 @@
 
   </div>
   <div class="col-md-8 mx-auto d-block text-center">
-      <span class="font-weight-bold text-center texto-las-palmas"> Jardin Las Palmas <br> Lançamento em Outubro </span>
+      <span class="font-weight-bold text-center texto-las-palmas"> Jardim Las Palmas <br> Lançamento em Outubro </span>
     <br><br>
      <div class="col">
         <video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" loop controls autoplay>

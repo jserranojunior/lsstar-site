@@ -7,9 +7,12 @@
         <span class="text-center">
             <span >
           <h4 class="font-weight-bold text-top-without-space text-lsstar ">
-            Lançamento em Outubro de 2018
+              Jardim Las Palmas
+              <br>
+              Lançamento em Outubro de 2018
           </h4>
         </span>
+        <br>
           <p>Obras em estágio avançado.<br>
           Projeto - Arq. Jair Correia de Souza.</p>
         </span>

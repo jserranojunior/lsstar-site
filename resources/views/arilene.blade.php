@@ -7,7 +7,7 @@
         <span class="text-center">
           <span>
             <h4 class="font-weight-bold text-top-without-space text-lsstar ">
-              Arilene Farinazzo
+              Rua Arilene Farinazzo
             </h4>
           </span>
           <p>Casa à venda
@@ -18,7 +18,7 @@
           <br>CEP: 11471-010, Vicente de Carvalho - Sp</p>
           <p>
               <span class="text-primary font-weight-bold">Casa 3 - R$ 235.000.00</span><br>
-              Características do imóvel: Sobrado germinado sobreposto superior,  <br>
+              Características do imóvel: Sobrado geminado sobreposto superior,  <br>
               2 quartos e sacada.
             </p>
           <p>

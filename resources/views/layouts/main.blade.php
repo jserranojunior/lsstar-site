@@ -61,38 +61,38 @@
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      1 - Caiçaras
+                      1 - Av. Caiçaras
                     </p>
 
                   </li>
                   <li class="nav-item">
 
                     <p class="text-bold text-casas">
-                      2 - Ezio da Gama
+                      2 - Rua Ezio da Gama
                     </p>
 
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      3 - Julio Pedro Pontes
+                      3 - Rua Julio Pedro Pontes
                     </p>
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      4 - Edivaldo Pires
+                      4 - Rua Edivaldo Pires
                     </p>
                   </li>
                   <li class="nav-item">
                     <a class="" href="{{url('/adriano')}}">
                       <p class="text-bold text-casas">
-                        5 - Adriano dias
+                        5 - Av. Adriano Dias
                       </p>
                     </a>
                   </li>
                   <li class="nav-item">
                       <a class="" href="{{url('/arilene')}}">
                       <p class="text-bold text-casas">
-                        6 - Arilene Farinazzo
+                        6 - Rua Arilene Farinazzo
                       </p>
                     </a>
                   </li>
@@ -117,12 +117,12 @@
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      8 - São Paulo - Enseada
+                      8 - Rua São Paulo - Enseada
                     </p>
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      9 - Rio Grande do Sul
+                      9 - Rua Rio Grande do Sul
                     </p>
                   </li>
                   <li class="nav-item">
