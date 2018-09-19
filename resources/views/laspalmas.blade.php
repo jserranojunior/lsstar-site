@@ -39,8 +39,8 @@
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="fotos">
 
-          <video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" preload="none" autoplay>
-            <source src="{{url('/video/sobrados-germinados.mp4')}}"> Seu navegador não tem suporte.
+          <video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" loop controls autoplay>
+            <source src="{{url('/video/video-externo-e-interno.mp4')}}"> Seu navegador não tem suporte.
           </video>
 
           <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
