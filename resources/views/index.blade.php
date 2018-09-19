@@ -15,7 +15,7 @@
   </div>
 </div>
 <div class="row row-financiamento justify-content-md-center">
-  <div class="col-md-6">
+  <div class="col-md-4">
     <span class="font-weight-bold text-center">
       <p class="text-center">
         <span class="font-weight-bold text-center">
@@ -36,23 +36,14 @@
       </p>
 
   </div>
-  <div class="col-md-6 mx-auto d-block text-center">
-      <span class="font-weight-bold text-center"> Jardin Las Palmas <br> Lançamento em Outubro </span>
-    
+  <div class="col-md-8 mx-auto d-block text-center">
+      <span class="font-weight-bold text-center texto-las-palmas"> Jardin Las Palmas <br> Lançamento em Outubro </span>
+    <br><br>
      <div class="col">
         <video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" loop controls autoplay>
           <source src="{{url('/video/video-externo-e-interno.mp4')}}"> Seu navegador não tem suporte.
         </video>
      </div>
-
-    <!-- <span class="font-weight-bold">
-      <a target="_blank" href="http://www8.caixa.gov.br/siopiinternet-web/simulaOperacaoInternet.do?method=inicializarCasoUso">
-        Simulador de Financiamento
-      </a>
-    </span>
-    <img src="img/minhacasaminhavida.png" class="img-fluid img-minha-casa-minha-vida img-thumbnail mx-auto d-block" alt="Minha casa minha vida">
-    </a> -->
- 
   </div>
 </div>
 
