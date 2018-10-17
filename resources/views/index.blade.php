@@ -22,10 +22,7 @@
           Imóveis a Venda
           <br>
         </span>
-        <a class="" href="{{url('/adriano')}}">
-          Av. Adriano Dias
-          <br> Casa 3</a>
-        <br>
+        
         <br>
         <a class="" href="{{url('/arilene')}}">
           Rua Arilene Farinazzo

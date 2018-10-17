@@ -83,11 +83,11 @@
                     </p>
                   </li>
                   <li class="nav-item">
-                    <a class="" href="{{url('/adriano')}}">
+                  
                       <p class="text-bold text-casas">
                         5 - Av. Adriano Dias
                       </p>
-                    </a>
+                   
                   </li>
                   <li class="nav-item">
                       <a class="" href="{{url('/arilene')}}">
