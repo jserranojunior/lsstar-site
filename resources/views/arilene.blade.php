@@ -16,11 +16,11 @@
 
         <p>Rua Arilene Farinazzo Ferreira, 224, Jd Boa Esperança,
           <br>CEP: 11471-010, Vicente de Carvalho - Sp</p>
-          <p>
+          <!-- <p>
               <span class="text-primary font-weight-bold">Casa 3 - R$ 235.000.00</span><br>
               Características do imóvel: Sobrado geminado sobreposto superior,  <br>
               2 quartos e sacada.
-            </p>
+            </p> -->
           <p>
               <span class="text-primary font-weight-bold">Casa 4 - R$ 245.000.00</span><br>
               Características do imóvel: Sobrado geminado sobreposto inferior, <br>

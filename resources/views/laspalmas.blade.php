@@ -9,7 +9,7 @@
           <h4 class="font-weight-bold text-top-without-space text-lsstar ">
               Jardim Las Palmas
               <br>
-              Lançamento em Outubro de 2018
+              Lançamento
           </h4>
         </span>
         <br>
