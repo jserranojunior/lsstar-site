@@ -17,6 +17,10 @@ if($isMobile == true){
 }
 });
 
+$(document).ready(function() {
+  $('#ExemploModalCentralizado').modal('show');
+})
+
 
 
 

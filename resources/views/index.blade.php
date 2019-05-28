@@ -45,4 +45,26 @@
 </div>
 
 
+
+
+<!-- Modal -->
+<div class="modal fade" id="ExemploModalCentralizado" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img src="img/index/sobrados_novos.png" class="img-fluid mx-auto d-block" alt="Promoção">
+        
+        
+      </div>
+     
+    </div>
+  </div>
+</div>
+
 @endsection
