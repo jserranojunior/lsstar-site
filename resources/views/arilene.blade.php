@@ -50,19 +50,19 @@
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="fotos">
-          <img class="img-fluid" src="./img/arilene/1.jpg" alt="">
+          <!-- <img class="img-fluid" src="./img/arilene/1.jpg" alt=""> -->
 
-          <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="./img/julio/1.png" alt="First slide">
+                    <img class="d-block w-100" src="./img/arilene/1.jpg" alt="First slide">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="./img/julio/2.png" alt="">
+                    <img class="d-block w-100" src="./img/arilene/2.jpg" alt="">
                   </div>
-                  <div class="carousel-item">
+                  <!-- <div class="carousel-item">
                     <img class="d-block w-100" src="./img/julio/3.jpg" alt="">
-                  </div>
+                  </div> -->
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -72,7 +72,7 @@
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                   <span class="sr-only">Next</span>
                 </a>
-              </div> -->
+              </div>
         </div>
         <div role="tabpanel" class="tab-pane" id="home">
           <h3>Casas à venda</h3>
