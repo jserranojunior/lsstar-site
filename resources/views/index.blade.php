@@ -9,21 +9,28 @@
     <img src="img/logo.png " class="img-fluid mx-auto d-block sombra" alt="Ls Star Incorporadora">
   </div>
 </div>
-<div class="row float-center row-casa">
-  <div class="col-md">
-    <img src="img/casa.jpg" class="img-fluid mx-auto d-block" alt="Ls Star Incorporadora">
+<!-- <div class="row">
+<div class="col-sm-6">
+<img src="img/home-panfleto.png" class="img-fluid mx-auto d-block" alt="Ls Star Incorporadora">
+
+</div>
+<div class="col-sm-6">
+
+<video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" loop controls autoplay>
+          <source src="{{url('/video/video-externo-e-interno.mp4')}}"> Seu navegador não tem suporte.
+        </video>
+</div>
+</div> -->
+<div class="row float-center row-space">
+  <div class="col-md-12">
+    <img src="img/home-panfleto.png" class="img-fluid mx-auto d-block img-60" alt="Ls Star Incorporadora">
   </div>
 </div>
-<div class="row row-financiamento justify-content-md-center">
-  <div class="col-md-4">
+<div class="row row-space justify-content-md-center">
+  <!-- <div class="col-md-4">
     <span class="font-weight-bold text-center">
       <p class="text-center">
-        <span class="font-weight-bold text-center">
-          Imóveis a Venda
-          <br>
-        </span>
-        
-        <br>
+       
         <a class="" href="{{url('/arilene')}}">
           Rua Arilene Farinazzo
           <br>Casa 4</a> <br><br>
@@ -32,10 +39,10 @@
         </a>
       </p>
 
-  </div>
-  <div class="col-md-8 mx-auto d-block text-center">
-      <span class="font-weight-bold text-center texto-las-palmas"> Jardim Las Palmas <br> Lançamento </span>
-    <br><br>
+  </div> -->
+  <div class="col-md-12 mx-auto d-block text-center ">
+      <!-- <span class="font-weight-bold text-center texto-las-palmas"> Jardim Las Palmas <br> Lançamento </span> -->
+    
      <div class="col">
         <video class="black" id="meuvideo" width="100%" height="100%" type="video/mp4" loop controls autoplay>
           <source src="{{url('/video/video-externo-e-interno.mp4')}}"> Seu navegador não tem suporte.
@@ -67,4 +74,12 @@
   </div>
 </div> -->
 
+<style>
+.img-60{
+  max-width:50%;
+}
+.row-space{
+  margin-top:5px;
+}
+</style>
 @endsection
