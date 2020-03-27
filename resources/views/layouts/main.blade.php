@@ -89,17 +89,15 @@
                       </p>
                    
                   </li>
-                  <li class="nav-item">
-                      <a class="" href="{{url('/arilene')}}">
-                      <p class="text-bold text-casas">
-                        6 - Rua Arilene Farinazzo
+                  <li class="nav-item">                      
+                    <p class="text-bold text-casas">
+                    6 - Rua Arilene Farinazzo
                       </p>
-                    </a>
                   </li>
                   <li class="nav-item">
                     <a class=" text-dark" href="#">
                       <p class="text-casa-titulo">
-                        Projeto em Obra
+                        Projetos à venda
                       </p>
                     </a>
                   </li>
@@ -111,23 +109,32 @@
                     </a>
                   </li>
                   <li class="nav-item">
+                    <a class="" href="{{url('/attilio')}}">
+                      <p class="text-bold text-casas">
+                        8 - Attílio Gelsomini
+                      </p>
+                    </a>
+                  </li>
+
+                
+                  <li class="nav-item">
                     <p class="text-casa-titulo">
                       Projetos Futuros
                     </p>
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      8 - Rua São Paulo - Enseada
+                      9 - Rua São Paulo - Enseada
                     </p>
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      9 - Rua Rio Grande do Sul
+                      10 - Rua Rio Grande do Sul
                     </p>
                   </li>
                   <li class="nav-item">
                     <p class="text-bold text-casas">
-                      10 - Chacará João de Barro
+                      11 - Chacará João de Barro
                     </p>
                   </li>
                   <li class="nav-item">
@@ -141,7 +148,25 @@
               </div>
             </nav>
           </div>
-          <div class=" col-md-6 col-lg-12 text-center float-center">
+          
+
+        </div>
+      </div>
+      <div class="col-lg-6">
+
+        @yield('content')
+
+      </div>
+      <div class="col-lg-3 bg-light">
+        <div class="row justify-content-md-center">
+          <div class="widget plugin-facebook">
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flsstarincorporadora%2F&tabs=timeline&width=250&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+              width="250" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"
+              allow="encrypted-media"></iframe>
+          </div>
+        </div>
+        <div class="row">
+        <div class=" col-md-6 col-lg-12 text-center float-center">
 
 
             <a class="text-primary btn" target="_blank" href="https://www.facebook.com/lsstarincorporadora/?ref=bookmarks">
@@ -169,21 +194,6 @@
             </a>
 
           </div>
-
-        </div>
-      </div>
-      <div class="col-lg-6">
-
-        @yield('content')
-
-      </div>
-      <div class="col-lg-3 bg-light">
-        <div class="row justify-content-md-center">
-          <div class="widget plugin-facebook">
-            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flsstarincorporadora%2F&tabs=timeline&width=250&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-              width="250" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"
-              allow="encrypted-media"></iframe>
-          </div>
         </div>
       </div>
     </div>
@@ -191,7 +201,9 @@
       <div class="col bg-light">
         <p class="text-center ">
           <span class="font-weight-bold"> Escritório e Vendas</span>
-          <br> Av. dos Caiçaras, 31 - CEP: 11420-440 - Jardim Guaiúba - Guarujá - SP | Telefone: (13) 3354-2278 / Celular: (13)
+          <br> Av. dos Caiçaras, 31 - CEP: 11420-440 - Jardim Guaiúba - Guarujá - SP 
+          <br>
+           Telefone: (13) 3354-2278 / Celular: (13)
           99779-1954
         </p>
       </div>
@@ -199,7 +211,7 @@
     <!-- footer -->
 
     @if(app('request')->path() == '/')
-    <div class="fornecedores">
+    <!-- <div class="fornecedores">
       <div class="row row-space">
         <div class="col">
           <h6 class="text-center font-weight-bold">Parceria</h6>
@@ -234,7 +246,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     @endif
 
   </div>

@@ -31,6 +31,10 @@ $router->get('/laspalmas', ['as' => 'laspalmas', function () use ($router) {
     return view('laspalmas');
 }]);
 
+$router->get('/attilio', ['as' => 'attilio', function () use ($router) {
+    return view('attilio');
+}]);
+
 $router->get('/adriano', ['as' => 'adriano', function () use ($router) {
     return view('adriano');
 }]);
