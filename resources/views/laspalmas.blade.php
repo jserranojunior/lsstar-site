@@ -17,7 +17,7 @@
           Projeto - Arq. Jair Correia de Souza.</p>
         </span>
 
-        <p>Rua Ranulpho Veríssimo, 80 - Jardim Las Palmas, Astúrias
+        <p>Rua Ranulfo Veríssimo, 180 - Jardim Las Palmas, Astúrias
           <br> Guarujá - SP, CEP: 11420-495</p>
       </div>
     </div>
