@@ -166,34 +166,37 @@
           </div>
         </div>
         <div class="row">
-        <div class=" col-md-6 col-lg-12 text-center float-center">
-
-
-            <a class="text-primary btn" target="_blank" href="https://www.facebook.com/lsstarincorporadora/?ref=bookmarks">
+        <div class="col-3">
+        <a class="text-primary btn" target="_blank" href="https://www.facebook.com/lsstarincorporadora/?ref=bookmarks">
               <span class="icon-social-media-header">
                 <i class="fab fa-facebook-square"></i>
               </span>
             </a>
-
-            <a class=" text-danger btn" target="_blank" href="https://www.instagram.com/lsstarincorporadora/">
+        </div>
+        <div class="col-3">
+        <a class=" text-danger btn" target="_blank" href="https://www.instagram.com/lsstarincorporadora/">
               <span class="icon-social-media-header">
                 <i class="fab fa-instagram"></i>
               </span>
             </a>
-
-            <a class=" text-primary btn" href="{{url('/contato')}}">
+        </div>
+        <div class="col-3">
+        <a class=" text-primary btn" href="{{url('/contato')}}">
               <span class="icon-social-media-header">
                 <i class="far fa-envelope"></i>
               </span>
             </a>
+        </div>
+        <div class="col-3">
+        
 
-            <a class="text-success link-whatsapp btn" href="whatsapp://send?phone=5513997791954">
+        <a class="text-success link-whatsapp btn" href="whatsapp://send?phone=5513997791954">
               <span class="icon-social-media-header">
                 <i class="fab fa-whatsapp"></i>
               </span>
             </a>
-
-          </div>
+        </div>
+  
         </div>
       </div>
     </div>
