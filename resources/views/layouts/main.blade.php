@@ -200,9 +200,9 @@
     <div class="row row-space ">
       <div class="col bg-light">
         <p class="text-center ">
-          <span class="font-weight-bold"> Escritório e Vendas</span><br>
-          Av .General Rondon,179 - Asturias Lj 24 - CEP: 11420-030 - Guarujá - SP <br>
-          Av. dos Caiçaras, 31 - CEP: 11420-440 - Jardim Guaiúba - Guarujá - SP <br>
+        
+          <span class="font-weight-bold">Vendas - </span>Av .General Rondon,179 - Asturias Lj 24 - CEP: 11420-030 - Guarujá - SP <br>
+          <span class="font-weight-bold">Adm - </span> Av. dos Caiçaras, 31 - CEP: 11420-440 - Jardim Guaiúba - Guarujá - SP <br>
           Telefone: (13) 3354-2278 / Celular: (13)
           99779-1954
         </p>

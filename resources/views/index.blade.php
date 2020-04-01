@@ -7,7 +7,7 @@
 </div>
 <div class="row float-center row-space">
   <div class="col-md-12">
-    <img src="img/home-panfleto.png" class="img-fluid mx-auto d-block img-60" alt="Ls Star Incorporadora">
+    <img src="img/home-panfleto-inicial.png" class="img-fluid mx-auto d-block img-60" alt="Ls Star Incorporadora">
   </div>
 </div>
 <div class="row row-space justify-content-md-center">

@@ -19,12 +19,12 @@
           <p>
               <span class="text-primary font-weight-bold">
               R$ 210.000,00 </span><br>
-              Características do imóvel:  imóvel em excelente localização, sem taxa de condomínio,
+              Características do imóvel:  Casa sobreposta em excelente localização, sem taxa de condomínio,
               negociação direta com o proprietário. 
               Comércios, padaria, supermercado, lojas e farmácia 
               a pouca caminhada do local. Sala e cozinha ampla e bem arejada, 
-              quartos claros, garagem coberta, 
-              churrasqueira de uso comum, casa sobreposta. 
+              3 quartos (1 suite), garagem coberta, 
+              churrasqueira de uso comum. 
              
               
             </p>
