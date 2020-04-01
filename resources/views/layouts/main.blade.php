@@ -97,7 +97,7 @@
                   <li class="nav-item">
                     <a class=" text-dark" href="#">
                       <p class="text-casa-titulo">
-                        Projetos à venda
+                        Imóveis à venda
                       </p>
                     </a>
                   </li>

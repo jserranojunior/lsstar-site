@@ -8,17 +8,15 @@
             <span >
           <h4 class="font-weight-bold text-top-without-space text-lsstar ">
               Jardim Las Palmas
-              <br>
-              Lançamento
+              
           </h4>
         </span>
         <br>
-          <p>Obras em estágio avançado.<br>
+          <p>Obras finalizadas.<br>
           Projeto - Arq. Jair Correia de Souza.</p>
         </span>
-
-        <p>Rua Ranulfo Veríssimo, 180 - Jardim Las Palmas, Astúrias
-          <br> Guarujá - SP, CEP: 11420-495</p>
+          <p>Rua José Ramos, 381 - Jardim Las Palmas - Astúrias
+          <br> Guarujá - SP, CEP: 11420-490</p>
       </div>
     </div>
 
