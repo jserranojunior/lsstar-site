@@ -109,11 +109,11 @@
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="" href="{{url('/attilio')}}">
+                    
                       <p class="text-bold text-casas">
                         8 - Attílio Gelsomini
                       </p>
-                    </a>
+                   
                   </li>
 
                 
