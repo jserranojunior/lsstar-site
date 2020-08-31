@@ -16,6 +16,23 @@
 <body>
   <div class="container">
 
+ 
+<div class="modal fade modalPromocao" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-md">
+  <div class="modal-content">
+  
+      <div class="modal-body">
+      <img src="{{Url('/img/promocao/1.png')}}" class="img-fluid  sombra" alt="Ls Star Incorporadora">
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-warning" data-dismiss="modal">Fechar</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
+
     <div class="row row-space">
       <div class="col-md-12 col-xs-12 col-sm-12 col-lg-3 bg-light">
         <div class="row bg-light">
