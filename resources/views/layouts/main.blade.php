@@ -22,7 +22,7 @@
   <div class="modal-content">
   
       <div class="modal-body">
-      <img src="{{Url('/img/promocao/1.png')}}" class="img-fluid  sombra" alt="Ls Star Incorporadora">
+      <img src="{{Url('/img/promocao/1-update.png')}}" class="img-fluid  sombra" alt="Ls Star Incorporadora">
 
       </div>
       <div class="modal-footer">
