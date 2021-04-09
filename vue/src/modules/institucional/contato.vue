@@ -2,9 +2,7 @@
   <div>
     <div class="flex flex-wrap justify-center shadow-lg my-2">
       <div class="w-full p-2 mx-2">
-        <h2 class="text-center text-blue-800 font-bold">
-          Informações de Contato
-        </h2>
+        <h2 class="text-center text-blue-800 font-bold">Informações de Contato</h2>
 
         <div class="flex flex-wrap">
           <div class="w-full">
@@ -87,9 +85,7 @@
                 v-model="contato.mensagem"
               ></textarea>
             </div>
-            <button class="btn btn-primary-tail" @click="sendContato()">
-              ENVIAR
-            </button>
+            <button class="btn-blue" @click="sendContato()">ENVIAR</button>
           </div>
         </div>
       </div>
@@ -102,7 +98,6 @@ export default {
   setup() {
     const { contato, sendContato } = useState();
     return { contato, sendContato };
-  }
+  },
 };
 </script>
-

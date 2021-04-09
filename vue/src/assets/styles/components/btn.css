@@ -1,0 +1,30 @@
+.btn-blue {
+  @apply border border-indigo-500 bg-indigo-500 text-white rounded-md py-1 px-2 mt-2 transition duration-500  select-none;
+}
+
+.btn-blue:focus {
+  @apply outline-none shadow-inner cursor-pointer;
+}
+.btn-blue:hover {
+  @apply bg-indigo-600 cursor-pointer;
+}
+.btn-warning-tail {
+  @apply border border-yellow-500 bg-yellow-500 text-white rounded-md py-1 px-2 mt-2 transition duration-500  select-none;
+}
+
+.btn-warning-tail:focus {
+  @apply outline-none shadow-inner cursor-pointer;
+}
+.btn-warning-tail:hover {
+  @apply bg-yellow-600 cursor-pointer;
+}
+.btn-danger-tail {
+  @apply border border-red-500 bg-red-500 text-white rounded-md py-1 px-2 mt-2 transition duration-500  select-none;
+}
+
+.btn-danger-tail:focus {
+  @apply outline-none shadow-inner cursor-pointer;
+}
+.btn-danger-tail:hover {
+  @apply bg-red-600 cursor-pointer;
+}

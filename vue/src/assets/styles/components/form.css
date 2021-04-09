@@ -1,0 +1,6 @@
+.form-tail {
+  @apply block w-full p-2 mt-2 text-gray-800 bg-gray-200 appearance-none;
+}
+.form-tail:focus {
+  @apply outline-none bg-gray-300 shadow-inner;
+}

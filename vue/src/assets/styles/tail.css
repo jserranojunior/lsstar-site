@@ -5,35 +5,16 @@
 @tailwind utilities;
 
 @layer components {
-  .nav-sub-item  {
-    @apply mb-1;
-  }
-  .nav-item{
-    @apply mt-3 font-bold
-  }
-  a{
-    @apply text-blue-800
-  }
-  a:hover {
-  @apply text-blue-600;
-}
-.form-tail{
-  @apply block w-full p-2 mt-2 text-gray-800 bg-gray-200 appearance-none  ;
-}
-.form-tail:focus{
-  @apply outline-none bg-gray-300 shadow-inner;
-}
-.btn-primary-tail{
-  @apply border border-indigo-500 bg-indigo-500 text-white rounded-md py-1 px-2 mt-2 transition duration-500  select-none ;
-}
 
-.btn-primary-tail:focus{
-  @apply outline-none shadow-inner cursor-pointer;
-}
-.btn-primary-tail:hover {
-  @apply bg-indigo-600 cursor-pointer;
-}
+
+@import "./components/link.css";
+@import "./components/nav.css";
+@import "./components/form.css";
+@import "./components/btn.css";
+
+
 
 
 }
+
 

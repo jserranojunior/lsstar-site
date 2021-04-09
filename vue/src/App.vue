@@ -9,12 +9,12 @@
 </template>
 
 <script>
-  import Main from "./views/layouts/Main";
+import Main from "./views/layouts/Main";
 
-  export default {
-    name: "App",
-    components: {
-      Main,
-    },
-  };
+export default {
+  name: "App",
+  components: {
+    Main,
+  },
+};
 </script>

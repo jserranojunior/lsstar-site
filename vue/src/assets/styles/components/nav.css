@@ -1,0 +1,6 @@
+.nav-sub-item {
+  @apply mb-1;
+}
+.nav-item {
+  @apply mt-3 font-bold;
+}
