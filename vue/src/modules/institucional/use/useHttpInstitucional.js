@@ -11,6 +11,7 @@ export const useHttpInstitucional = () => {
         }
       })
       .catch((err) => {
+        console.log(data);
         // eslint-disable-next-line
         console.log(err.response);
       });

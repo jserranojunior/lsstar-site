@@ -16,5 +16,10 @@ export default {
   components: {
     Main,
   },
+  data() {
+    return {
+      texto: "Sera que está inputando mesmo",
+    };
+  },
 };
 </script>

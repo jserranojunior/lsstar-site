@@ -4,43 +4,43 @@
   >
     <nav class="navbar w-full">
       <ul>
-        <li class="nav-item">
+        <li class="sidebar-nav-item">
           <router-link to="/">Página Inícial</router-link>
         </li>
 
-        <li class="nav-item">Quem somos</li>
+        <li class="sidebar-nav-item">Quem somos</li>
 
-        <li class="nav-item">Projetos Realizados</li>
+        <li class="sidebar-nav-item">Projetos Realizados</li>
 
-        <li class="nav-sub-item">1 - Av. Caiçaras</li>
+        <li class="sidebar-nav-sub-item">1 - Av. Caiçaras</li>
 
-        <li class="nav-sub-item">2 - Rua Ezio da Gama</li>
+        <li class="sidebar-nav-sub-item">2 - Rua Ezio da Gama</li>
 
-        <li class="nav-sub-item">3 - Rua Julio Pedro Pontes</li>
+        <li class="sidebar-nav-sub-item">3 - Rua Julio Pedro Pontes</li>
 
-        <li class="nav-sub-item">4 - Rua Edivaldo Pires</li>
+        <li class="sidebar-nav-sub-item">4 - Rua Edivaldo Pires</li>
 
-        <li class="nav-sub-item">5 - Av. Adriano Dias</li>
+        <li class="sidebar-nav-sub-item">5 - Av. Adriano Dias</li>
 
-        <li class="nav-sub-item">6 - Rua Arilene Farinazzo</li>
+        <li class="sidebar-nav-sub-item">6 - Rua Arilene Farinazzo</li>
 
-        <li class="nav-item">Imóveis à venda</li>
+        <li class="sidebar-nav-item">Imóveis à venda</li>
 
-        <li class="nav-sub-item">
+        <li class="sidebar-nav-sub-item">
           <router-link to="/laspalmas">7 - Jardim Las Palmas</router-link>
         </li>
 
-        <li class="nav-sub-item">8 - Attílio Gelsomini</li>
+        <li class="sidebar-nav-sub-item">8 - Attílio Gelsomini</li>
 
-        <li class="nav-item">Projetos Futuros</li>
+        <li class="sidebar-nav-item">Projetos Futuros</li>
 
-        <li class="nav-sub-item">9 - Rua São Paulo - Enseada</li>
+        <li class="sidebar-nav-sub-item">9 - Rua São Paulo - Enseada</li>
 
-        <li class="nav-sub-item">10 - Rua Rio Grande do Sul</li>
+        <li class="sidebar-nav-sub-item">10 - Rua Rio Grande do Sul</li>
 
-        <li class="nav-sub-item">11 - Chacará João de Barro</li>
+        <li class="sidebar-nav-sub-item">11 - Chacará João de Barro</li>
 
-        <li class="nav-item">
+        <li class="sidebar-nav-item">
           <router-link to="/contato">Contato</router-link>
         </li>
       </ul>
@@ -94,6 +94,6 @@
 
 <script>
 export default {
-  name: "Leftbar"
+  name: "Leftbar",
 };
 </script>

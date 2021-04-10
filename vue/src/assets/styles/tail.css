@@ -2,19 +2,15 @@
 
 @tailwind components;
 
+.sidebar-nav-sub-item {
+  @apply mb-1;
+}
+.sidebar-nav-item {
+  @apply mt-3 font-bold;
+}
+
+
 @tailwind utilities;
 
-@layer components {
-
-
-@import "./components/link.css";
-@import "./components/nav.css";
-@import "./components/form.css";
-@import "./components/btn.css";
-
-
-
-
-}
 
 

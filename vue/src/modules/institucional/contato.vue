@@ -45,34 +45,13 @@
         <div class="flex mt-2">
           <div class="w-full">
             <div class="mt-1">
-              <input
-                type="text"
-                class="form-tail"
-                placeholder="Seu nome *"
-                name="nome"
-                v-model="contato.nome"
-              />
-            </div>
-
-            <div class="mt-1">
-              <input
-                type="text"
-                class="form-tail"
-                id="telefone"
-                placeholder="Seu telefone"
+              <SInputT name="nome" v-model="contato.nome" placeholder="Seu nome * " />
+              <SInputT
                 name="telefone"
                 v-model="contato.telefone"
+                placeholder="Seu telefone *"
               />
-            </div>
-
-            <div class="mt-1">
-              <input
-                type="text"
-                class="form-tail"
-                placeholder="Seu e-mail *"
-                name="email"
-                v-model="contato.email"
-              />
+              <SInputT name="email" v-model="contato.email" placeholder="Seu e-mail *" />
             </div>
 
             <div class="mt-1">
@@ -81,7 +60,7 @@
                 cols="40"
                 rows="2"
                 placeholder="Sua mensagem *"
-                class="form-tail"
+                class="form"
                 v-model="contato.mensagem"
               ></textarea>
             </div>
