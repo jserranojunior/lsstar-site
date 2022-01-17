@@ -1,25 +1,19 @@
-<template>
-  <div>
-    <Main>
-      <template v-slot:main>
-        <router-view></router-view>
-      </template>
-    </Main>
-  </div>
-</template>
 
-<script>
-import Main from "./views/layouts/Main";
+<template>
+  <Main>
+    <template v-slot:main>
+      <router-view></router-view>
+    </template>
+  </Main>
+</template>
+<script lang="ts">
+import Main from "./views/layouts/Main.vue";
 
 export default {
   name: "App",
   components: {
     Main,
   },
-  data() {
-    return {
-      texto: "Sera que está inputando mesmo",
-    };
-  },
-};
+}
 </script>
+

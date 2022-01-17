@@ -8,9 +8,7 @@
         <div class="sm:w-full md:w-2/3 lg:w-2/4 shadow-lg px-2 pb-2">
           <slot name="main"></slot>
         </div>
-        <div
-          class="sm:w-full md:w-full lg:w-1/4 hidden sm:hidden md:hidden lg:block"
-        >
+        <div class="sm:w-full md:w-full lg:w-1/4 hidden sm:hidden md:hidden lg:block">
           <Rightbar></Rightbar>
         </div>
         <Footer></Footer>
@@ -20,9 +18,9 @@
 </template>
 
 <script>
-import Rightbar from "./Rightbar";
-import Leftbar from "./Leftbar";
-import Footer from "./Footer";
+import Rightbar from "./Rightbar.vue";
+import Leftbar from "./Leftbar.vue";
+import Footer from "./Footer.vue";
 
 export default {
   name: "Main",
