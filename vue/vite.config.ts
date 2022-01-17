@@ -54,7 +54,7 @@ export default ({ command }) => {
         host: "0.0.0.0",
         port: 5000,
         https: true,
-        hmr: { host: "http://sitelsstar.localhost", port: 8080 },
+        hmr: { host: "https://lsstar.com.br", port: 8080 },
       },
       build: {
         chunkSizeWarningLimit: 2000,
