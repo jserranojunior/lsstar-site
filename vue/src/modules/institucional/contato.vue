@@ -5,7 +5,7 @@
         <h2 class="text-center text-blue-800 font-bold">Informações de Contato</h2>
 
         <div class="flex flex-wrap">
-          <div class="w-full">
+          <!-- <div class="w-full">
             <ul class="list-unstyled">
               <li>
                 <span class="text-blue-800">Vendas</span>
@@ -17,7 +17,7 @@
                 </ul>
               </li>
             </ul>
-          </div>
+          </div>-->
           <div class="w-full mt-1">
             <ul class="list-unstyled">
               <li>
@@ -46,11 +46,7 @@
           <div class="w-full">
             <div class="mt-1">
               <SInputT name="nome" v-model="contato.nome" placeholder="Seu nome * " />
-              <SInputT
-                name="telefone"
-                v-model="contato.telefone"
-                placeholder="Seu telefone *"
-              />
+              <SInputT name="telefone" v-model="contato.telefone" placeholder="Seu telefone *" />
               <SInputT name="email" v-model="contato.email" placeholder="Seu e-mail *" />
             </div>
 
