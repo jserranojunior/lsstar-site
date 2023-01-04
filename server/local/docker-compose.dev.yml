@@ -10,7 +10,7 @@ services:
     image: "node:lts-alpine"
     working_dir: /app
     volumes:
-      - "../../vue:/app"
+      - "${PATHPESSOAL}/lsstar-site/vue:/app"
     command: "npm run serve"
     networks:
       - internal
